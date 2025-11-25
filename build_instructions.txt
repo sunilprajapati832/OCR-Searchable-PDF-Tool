@@ -1,0 +1,14 @@
+Python Version: 3.10
+Required Libraries:
+- pytesseract
+- pymupdf
+- pillow
+- tkinterdnd2
+
+Build command:
+pyinstaller --onefile --windowed --icon=icon.ico pdf_ocr_gui.py
+
+Tesseract Installation:
+Install from https://github.com/tesseract-ocr/tesseract
+Make sure this folder exists:
+C:\Program Files\Tesseract-OCR\tesseract.exe
