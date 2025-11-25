@@ -12,25 +12,25 @@ link: https://github.com/sunilprajapati832/OCR-Searchable-PDF-Tool/releases/tag/
 ## Inspiration Behind This Project
 A real incident created this idea:
 
-“Someone gave me a PDF and asked me to search a name inside it.
+**“Someone gave me a PDF and asked me to search a name inside it.
 But the PDF was made from images of a Word file — so Ctrl+F didn’t work.
 I tried many tools online, but most were paid or added watermarks.
 At that moment, I decided to build my own OCR software — free, accurate, and easy for everyone.
-Now I’m sharing it publicly as a .exe tool so no one faces the problem I faced.”
+Now I’m sharing it publicly as a .exe tool so no one faces the problem I faced.”**
 
 This mindset led to the creation of OCR-Searchable-PDF-Tool — a professional Python + Tesseract project that helps thousands of users convert any PDF into a searchable format.
 
 ## Features
-- Drag & Drop PDF: Easily drop your PDF into the window.
-- Fast & Accurate OCR: Uses Tesseract 5 OCR with optimized settings (--oem 3 --psm 1).
-- Searchable Output: You get a perfectly searchable, highlightable, copy-able PDF.
-- Image + Text Layer: 
+- **Drag & Drop PDF**: Easily drop your PDF into the window.
+- **Fast & Accurate OCR**: Uses Tesseract 5 OCR with optimized settings (--oem 3 --psm 1).
+- **Searchable Output**: You get a perfectly searchable, highlightable, copy-able PDF.
+- **Image + Text Layer**: 
 - Final PDF contains:
   * your original high-quality image
   * hidden text layer for searchability
-- Progress Bar + Time Estimate: Track progress page-by-page.
-- Auto-close After Completion: After success, it opens folder → shows success → closes automatically.
-- Standalone Windows EXE: No Python required. Just download & run.
+- **Progress Bar + Time Estimate**: Track progress page-by-page.
+- **Auto-close After Completion**: After success, it opens folder → shows success → closes automatically.
+- **Standalone Windows EXE**: No Python required. Just download & run.
 
 
 
