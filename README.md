@@ -6,6 +6,8 @@ Convert Any PDF Into a Fully Searchable, Highlightable and Selectable Text PDF â
 ## Overview
 OCR-Searchable-PDF-Tool is a powerful desktop application that converts non-searchable image-based PDFs into full searchable PDFs using Tesseract OCR â€” packed inside a sleek GUI & shareable as a Windows .exe.
 This tool works completely offline, costs zero and produces highly accurate OCR text embedded into your original PDF.
+<br>
+link: https://github.com/sunilprajapati832/OCR-Searchable-PDF-Tool/releases/tag/v1.0.0/pdf_ocr_gui.exe 
 
 ## Inspiration Behind This Project
 A real incident created this idea:
