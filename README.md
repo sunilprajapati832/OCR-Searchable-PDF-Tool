@@ -1,5 +1,6 @@
 # OCR-Searchable-PDF-Tool
-Convert Any PDF Into a Fully Searchable, Highlightable and Selectable Text PDF — **100% Free & Offline** 
+Convert Any PDF Into a Fully Searchable, Highlightable and Selectable Text PDF — **100% Free & Offline**
+
 [![Download EXE](https://img.shields.io/github/v/release/sunilprajapati832/OCR-Searchable-PDF-Tool?style=for-the-badge)](https://github.com/sunilprajapati832/OCR-Searchable-PDF-Tool/releases)
 
 ## Overview
