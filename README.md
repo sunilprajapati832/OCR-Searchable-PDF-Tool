@@ -56,15 +56,24 @@ Download Windows installer: https://github.com/UB-Mannheim/tesseract/wiki <br>
 Then set the path in code: TESSERACT_PATH = r"C:\Program Files\Tesseract-OCR\tesseract.exe" <br>
 
 ## How to Use the Software (For Users)
-* **Method 1** — Direct EXE (Recommended)
+* **Method — Direct EXE**
   * Download OCR-Searchable-PDF-Tool.exe from GitHub Releases
   * Double-click to open
   * Drag your PDF
   * Click Start OCR
   * Done — your searchable PDF appears in the same folder
 
+## Project Structure 
+OCR-Searchable-PDF-Tool/
+│
+├── pdf_ocr_gui.py
+├── requirements.txt
+├── tesseract
+├── build_instructions.txt
+└── README.md
 
-
+## Screenshots
+![App Screenshot](assets/screenshot1.png)
 
 
 
