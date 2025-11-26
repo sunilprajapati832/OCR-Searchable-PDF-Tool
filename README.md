@@ -47,8 +47,10 @@ This mindset led to the creation of OCR-Searchable-PDF-Tool — a professional P
 **1. Clone the repository** <br>
 git clone https://github.com/sunilprajapati832/OCR-Searchable-PDF-Tool.git <br>
 cd OCR-Searchable-PDF-Tool <br>
+
 **2. Install dependencies** <br>
 pip install -r requirements.txt <br>
+
 **3. Install Tesseract OCR** <br>
 Download Windows installer: https://github.com/UB-Mannheim/tesseract/wiki <br>
 Then set the path in code: TESSERACT_PATH = r"C:\Program Files\Tesseract-OCR\tesseract.exe" <br>
