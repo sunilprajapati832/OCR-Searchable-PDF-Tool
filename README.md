@@ -88,17 +88,12 @@ link: https://github.com/sunilprajapati832/OCR-Searchable-PDF-Tool/releases/tag/
 For first release: **v1.0.0**
 
 ## Future Improvements (Roadmap)
- Add multi-language OCR
-
- Add bulk multiple-PDF processing
-
- Add output format selection
-
- Add dark/light theme toggle
-
- Add Mac & Linux builds
-
- Add an installer (.msi)
+- Add multi-language OCR
+- Add bulk multiple-PDF processing
+- Add output format selection
+- Add dark/light theme toggle
+- Add Mac & Linux builds
+- Add an installer (.msi)
 
 ## Contributing
 - Fork the repo
@@ -122,62 +117,3 @@ If you found this project interesting, let’s connect!
 
 **🎉 Thank You for Using OCR-Searchable-PDF-Tool!**
 Free for everyone — built with love & passion for solving real problems.
-
-
-## 🧩 Future Improvements (Roadmap)
-
-Here are the features planned to make **OCR-Searchable-PDF-Tool** even more powerful and user-friendly:
-
-### 🔤 Multi-Language OCR Support
-- Add the ability to recognize text in multiple languages (Hindi, English, Marathi, Gujarati, etc.)
-- Allow users to select languages directly from the interface.
-
-### 📚 Bulk PDF Processing
-- Enable users to upload a folder of PDFs.
-- Automatically convert all of them into searchable PDFs in one click.
-
-### 📄 Output Format Selection
-- Add support for exporting:
-  - Searchable PDF (current)
-  - Plain text (.txt)
-  - hOCR / ALTO XML
-  - Word document (.docx)
-
-### 🌗 Dark / Light Theme Toggle
-- Add UI theme customization for better accessibility.
-- Auto-detect system theme preference.
-
-### 🍏🐧 Mac & Linux Executables
-- Provide `.dmg` for macOS and `.AppImage / .deb` for Linux users.
-- Create platform-specific build instructions.
-
-### 📦 Windows Installer (.msi)
-- Replace the standalone `.exe` with a professional installer:
-  - Desktop shortcut creation  
-  - Auto-update option  
-  - Uninstaller support  
-
-### 🚀 Performance Upgrades
-- Faster OCR using multiprocessing.
-- Better handling of large image-based PDFs.
-
-### 🔍 Built-in PDF Preview
-- Allow users to preview each page before conversion.
-- Highlight the detected text layer for verification.
-
-### 📁 Custom Output Directory
-- Let users choose where converted PDFs should be saved.
-- Allow auto-naming or manual naming patterns.
-
----
-
-> If you want, I can also generate  
-> ✔ icons  
-> ✔ badges  
-> ✔ section dividers  
-> ✔ contribution guidelines  
-> ✔ fully structured README with ToC  
-> ✔ release notes  
-> ✔ changelog format  
-
-Just tell me!
