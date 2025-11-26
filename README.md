@@ -32,5 +32,19 @@ This mindset led to the creation of OCR-Searchable-PDF-Tool — a professional P
 - **Auto-close After Completion**: After success, it opens folder → shows success → closes automatically.
 - **Standalone Windows EXE**: No Python required. Just download & run.
 
+## Tech Stack
+| Component          | Purpose             |
+| ------------------ | ------------------- |
+| **Python 3.10+**   | Core logic          |
+| **Tkinter**        | GUI                 |
+| **TkinterDnD2**    | Drag & Drop support |
+| **PyMuPDF (fitz)** | PDF handling        |
+| **Pillow (PIL)**   | Image compression   |
+| **Tesseract OCR**  | Text extraction     |
+| **PyInstaller**    | EXE packaging       |
+
+## Installation (For Developers)
+- **1. Clone the repository**  : git clone https://github.com/sunilprajapati832/OCR-Searchable-PDF-Tool.git
+                                 cd OCR-Searchable-PDF-Tool
 
 
