@@ -73,7 +73,7 @@ OCR-Searchable-PDF-Tool/
 └── README.md
 
 ## Screenshots
-![App Screenshot](assets/screenshot1.png)
+![App Screenshot](AppScreenshot/SearchablePDFToolImage1.png)
 
 
 
