@@ -74,7 +74,11 @@ OCR-Searchable-PDF-Tool/
 
 ## Screenshots
 ![App Screenshot](AppScreenshot/SearchablePDFToolImage1.png)  ![App Screenshot](AppScreenshot/SearchablePDFToolImage2.png)
-
+<p align="center">
+  <img src="AppScreenshot/SearchablePDFToolImage1.png" alt="App Screenshot 1" width="45%"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="AppScreenshot/SearchablePDFToolImage2.png" alt="App Screenshot 2" width="45%"/>
+</p>
 
 
 
