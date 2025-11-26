@@ -4,10 +4,7 @@ Convert Any PDF Into a Fully Searchable, Highlightable and Selectable Text PDF �
 [![Download EXE](https://img.shields.io/github/v/release/sunilprajapati832/OCR-Searchable-PDF-Tool?style=for-the-badge)](https://github.com/sunilprajapati832/OCR-Searchable-PDF-Tool/releases)
 
 ## Overview
-OCR-Searchable-PDF-Tool is a powerful desktop application that converts non-searchable image-based PDFs into full searchable PDFs using Tesseract OCR — packed inside a sleek GUI & shareable as a Windows .exe.
-This tool works completely offline, costs zero and produces highly accurate OCR text embedded into your original PDF.
-<br>
-link: https://github.com/sunilprajapati832/OCR-Searchable-PDF-Tool/releases/tag/v1.0.0/pdf_ocr_gui.exe 
+OCR-Searchable-PDF-Tool is a powerful desktop application that converts non-searchable image-based PDFs into full searchable PDFs using Tesseract OCR — packed inside a sleek GUI & shareable as a Windows .exe. This tool works completely offline, costs zero and produces highly accurate OCR text embedded into your original PDF.
 
 ## Inspiration Behind This Project
 A real incident created this idea:
@@ -79,9 +76,108 @@ OCR-Searchable-PDF-Tool/
   <img src="AppScreenshot/SearchablePDFToolImage3.png" alt="App Screenshot 2" width="45%"/>
 </p>
 
+## How I Built the EXE (PyInstaller)
+**Command used:** pyinstaller --onefile --windowed --icon=icon.ico pdf_ocr_gui.py <br>
+**EXE is created in:** dist/OCR-Searchable-PDF-Tool.exe
+
+## Download the EXE (GitHub Releases)
+**users will click:** 👉 Releases → OCR-Searchable-PDF-Tool.exe → Download <br>
+link: https://github.com/sunilprajapati832/OCR-Searchable-PDF-Tool/releases/tag/v1.0.0/pdf_ocr_gui.exe 
+
+## Versioning 
+For first release: **v1.0.0**
+
+## Future Improvements (Roadmap)
+ Add multi-language OCR
+
+ Add bulk multiple-PDF processing
+
+ Add output format selection
+
+ Add dark/light theme toggle
+
+ Add Mac & Linux builds
+
+ Add an installer (.msi)
+
+## Contributing
+- Fork the repo
+- Create a feature branch
+- Commit changes
+- Open a Pull Request
+
+## Acknowledgements
+- Tesseract OCR Team
+- PyMuPDF Developers
+- TkinterDnD Project
+- OpenAI ChatGPT — for development assistance
+
+## ⭐ Support the Project
+If this tool helped you, please: **⭐ Star** the GitHub repo | Share the EXE link | Give feedback or request new features
+
+## Author
+**Sunil Prajapati**  
+If you found this project interesting, let’s connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sunil-prajapati832)
+
+**🎉 Thank You for Using OCR-Searchable-PDF-Tool!**
+Free for everyone — built with love & passion for solving real problems.
 
 
+## 🧩 Future Improvements (Roadmap)
 
+Here are the features planned to make **OCR-Searchable-PDF-Tool** even more powerful and user-friendly:
 
+### 🔤 Multi-Language OCR Support
+- Add the ability to recognize text in multiple languages (Hindi, English, Marathi, Gujarati, etc.)
+- Allow users to select languages directly from the interface.
 
+### 📚 Bulk PDF Processing
+- Enable users to upload a folder of PDFs.
+- Automatically convert all of them into searchable PDFs in one click.
 
+### 📄 Output Format Selection
+- Add support for exporting:
+  - Searchable PDF (current)
+  - Plain text (.txt)
+  - hOCR / ALTO XML
+  - Word document (.docx)
+
+### 🌗 Dark / Light Theme Toggle
+- Add UI theme customization for better accessibility.
+- Auto-detect system theme preference.
+
+### 🍏🐧 Mac & Linux Executables
+- Provide `.dmg` for macOS and `.AppImage / .deb` for Linux users.
+- Create platform-specific build instructions.
+
+### 📦 Windows Installer (.msi)
+- Replace the standalone `.exe` with a professional installer:
+  - Desktop shortcut creation  
+  - Auto-update option  
+  - Uninstaller support  
+
+### 🚀 Performance Upgrades
+- Faster OCR using multiprocessing.
+- Better handling of large image-based PDFs.
+
+### 🔍 Built-in PDF Preview
+- Allow users to preview each page before conversion.
+- Highlight the detected text layer for verification.
+
+### 📁 Custom Output Directory
+- Let users choose where converted PDFs should be saved.
+- Allow auto-naming or manual naming patterns.
+
+---
+
+> If you want, I can also generate  
+> ✔ icons  
+> ✔ badges  
+> ✔ section dividers  
+> ✔ contribution guidelines  
+> ✔ fully structured README with ToC  
+> ✔ release notes  
+> ✔ changelog format  
+
+Just tell me!
