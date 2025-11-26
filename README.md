@@ -76,7 +76,7 @@ OCR-Searchable-PDF-Tool/
 <p align="center">
   <img src="AppScreenshot/SearchablePDFToolImage1.png" alt="App Screenshot 1" width="45%"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="AppScreenshot/SearchablePDFToolImage2.png" alt="App Screenshot 2" width="45%"/>
+  <img src="AppScreenshot/SearchablePDFToolImage3.png" alt="App Screenshot 2" width="45%"/>
 </p>
 
 
