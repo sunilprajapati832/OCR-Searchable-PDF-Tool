@@ -44,7 +44,7 @@ This mindset led to the creation of OCR-Searchable-PDF-Tool — a professional P
 | **PyInstaller**    | EXE packaging       |
 
 ## Installation (For Developers)
-- **1. Clone the repository**  : <br>
+**1. Clone the repository**  : <br>
 git clone https://github.com/sunilprajapati832/OCR-Searchable-PDF-Tool.git <br>
 cd OCR-Searchable-PDF-Tool
 
