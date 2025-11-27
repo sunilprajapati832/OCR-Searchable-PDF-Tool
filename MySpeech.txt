@@ -1,0 +1,3 @@
+🎤 30–60 second version (Short Script)
+
+"I built an OCR Searchable PDF Tool using Python because scanned PDFs are not searchable. I used pytesseract, pdf2image, and PyPDF2 to extract images, run OCR, and generate a fully searchable PDF. I optimized OCR using custom configurations and solved common issues like Tesseract path errors and packaging into a .exe using PyInstaller. The tool works offline, is free to use, and I published the executable on GitHub Releases. It’s a complete real-world project that solves an actual problem I faced, and it demonstrates my ability to build and deploy production-ready Python tools."
