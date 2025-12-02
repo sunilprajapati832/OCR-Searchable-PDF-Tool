@@ -7,7 +7,6 @@ OCR-Searchable-PDF-Tool is a powerful desktop application that converts non-sear
 
 ## Inspiration Behind This Project
 A real incident created this idea:
-
 **“Someone gave me a PDF and asked me to search a name inside it.
 But the PDF was made from images of a Word file — so Ctrl+F didn’t work.
 I tried many tools online, but most were paid or added watermarks.
